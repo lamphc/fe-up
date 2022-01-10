@@ -1,4 +1,6 @@
 - [首页](/)
+- [怎么写一份亮眼的技术简历](/resume/index.md '简历')
+- [项目经验问题（必刷）](/project/index.md '项目')
 - [精选面试题(必刷)](fe1.md '精选面试题')
 - [面试官：说说你对 BOM 的理解，常见的 BOM 对象你了解哪些？](/JavaScript/BOM.md)
 - [面试官：DOM 常见的操作有哪些？](/JavaScript/Dom.md)
