@@ -9,7 +9,7 @@
   </a><a href="https://github.com/lamphc">
     <img src="https://img.shields.io/badge/vue-3.0.0-brightgreen.svg" alt="vue">
   </a><a href="https://github.com/lamphc">
-    <img src="https://img.shields.io/badge/angular-8.0.0-brightgreen.svg" alt="angular">
+    <img src="https://img.shields.io/badge/angular-11.0.0-brightgreen.svg" alt="angular">
   </a>
 - 有志者、事竟成，破釜沉舟，百二秦关终属楚；
 - 苦心人、天不负，卧薪尝胆，三千越甲可吞吴。
