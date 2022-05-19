@@ -212,7 +212,7 @@
 - [面试官：Vue 实例挂载的过程](/vue/new_vue.md)
 - [面试官：Vue 中的$nextTick 有什么作用？](/vue/nexttick.md)
 - [面试官：Vue.observable 你有了解过吗？说说看](/vue/observable.md)
-- [面试官：vue 要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？](/vue/permission.md)
+- [面试官：vue 要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？](/vue/per.md)
 - [面试官：v-show 和 v-if 有什么区别？使用场景分别是什么？](/vue/show_if.md)
 - [面试官：说说你对 slot 的理解？slot 使用场景有哪些？](/vue/slot.md)
 - [面试官：你对 SPA 单页面的理解，它的优缺点分别是什么？如何实现 SPA 应用呢](/vue/spa.md)
