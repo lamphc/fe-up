@@ -198,7 +198,7 @@
 - [面试官：Vue 项目中你是如何解决跨域的呢？](/vue/crs.md)
 - [面试官：为什么 data 属性是一个函数而不是一个对象？](/vue/data.md)
 - [面试官：动态给 vue 的 data 添加一个新的属性时会发生什么？怎样解决？](/vue/data_object_add_attrs.md)
-- [面试官：你了解 vue 的 diff 算法吗？说说看](/vue/diff.md)
+- [面试官：你了解 vue 的 diff 算法吗？说说看](/vue/dfs.md)
 - [面试官：你有写过自定义指令吗？自定义指令的应用场景有哪些？](/vue/directive.md)
 - [面试官：你是怎么处理 vue 项目中的错误的？](/vue/error.md)
 - [面试官：Vue 中的过滤器了解吗？过滤器的应用场景有哪些？](/vue/filter.md)
