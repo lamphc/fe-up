@@ -194,7 +194,7 @@
 - [面试官：你了解 axios 的原理吗？有看过它的源码吗？](/vue/axiosCode.md)
 - [面试官：双向数据绑定是什么](/vue/bind.md)
 - [面试官：Vue 组件之间的通信方式都有哪些？](/vue/communication.md)
-- [面试官：Vue 中组件和插件有什么区别？](/vue/components_plugin.md)
+- [面试官：Vue 中组件和插件有什么区别？](/vue/componentx.md)
 - [面试官：Vue 项目中你是如何解决跨域的呢？](/vue/crs.md)
 - [面试官：为什么 data 属性是一个函数而不是一个对象？](/vue/data.md)
 - [面试官：动态给 vue 的 data 添加一个新的属性时会发生什么？怎样解决？](/vue/data_object_add_attrs.md)
