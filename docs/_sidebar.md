@@ -218,7 +218,7 @@
 - [面试官：你对 SPA 单页面的理解，它的优缺点分别是什么？如何实现 SPA 应用呢](/vue/spa.md)
 - [面试官：SSR 解决了什么问题？有做过 SSR 吗？你是怎么做的？](/vue/ssr.md)
 - [面试官：说下你的 vue 项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](/vue/structure.md)
-- [面试官：什么是虚拟 DOM？如何实现一个虚拟 DOM？说说你的思路](/vue/vd.md)
+- [面试官：什么是虚拟 DOM？如何实现一个虚拟 DOM？说说你的思路](/vue/doe.md)
 - [面试官：有使用过 vue 吗？说说你对 vue 的理解](/vue/vue.md)
 - [面试官：vue3 有了解过吗？能说说跟 vue2 的区别吗？](/vue/v23.md)
 - [面试官：Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](/vue3/composition.md)
