@@ -5,7 +5,7 @@
 > 黑马程序员，成就高薪黑马。
 
 - <a href="https://github.com/lamphc">
-    <img src="https://img.shields.io/static/v1?label=react&message=16.0.0&color=blueviolet" alt="react">
+    <img src="https://img.shields.io/static/v1?label=react&message=18.0.0&color=blueviolet" alt="react">
   </a><a href="https://github.com/lamphc">
     <img src="https://img.shields.io/badge/vue-3.0.0-brightgreen.svg" alt="vue">
   </a><a href="https://github.com/lamphc">
