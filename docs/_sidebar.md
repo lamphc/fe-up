@@ -132,7 +132,7 @@
 - [面试官：如何使用 css 完成视差滚动效果?](/css/visual_scrolling.md)
 - [面试官：说说你对工厂模式的理解？应用场景？](/design/FactoryPattern.md)
 - [面试官：说说你对发布订阅、观察者模式的理解？区别？](/design/ObserverPattern.md)
-- [面试官：说说你对代理模式的理解？应用场景？](/design/ProxyPattern.md)
+- [面试官：说说你对代理模式的理解？应用场景？](/design/Pattern.md)
 - [面试官：说说你对单例模式的理解？如何实现？](/design/SingletonPattern.md)
 - [面试官：说说你对策略模式的理解？应用场景？](/design/StrategyPattern.md)
 - [面试官：说说对设计模式的理解？常见的设计模式有哪些？](/design/design.md)
